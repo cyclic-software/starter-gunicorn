@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kalyan-matka-user",
+  "private_key_id": "1ba56c1c4a24f120ed0b6995d2c0a7363eb71f34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2RIHUNajY6By9\nzjFKnKl+xGM4opGAFv5c2a/MAcuPto/SDWio/ZZe0vus8XP90Hu+Imsk9cl2mwcX\nupQ8CX3ALkwxtuGWGL6zb/GunSfH4wUCcL8KfS+tysX5zxC6yhh/xgJDt2QdX92+\nQYdeuLjnNtPR3iOV1jAqDljog4TAnXuZWSMNTxz/4dW+c6AYR79Ye7ICzBAQlTAO\nrBUMJUYh05OPWcrI8du8Et7YGchwUnDmhZJGFS7S+qWAw5Irop43tALozIlEt4R5\nGBHQXpcAJAbUBwMnGPUcto8+xOSXZUuvSJrIXZvBYv2ami2hlTPDkmJGZXKhooDK\naAJWpOUNAgMBAAECggEADd9+g0S3TpUyNNc4JL3yX7n6dGHZUcbOQwp1qUE8uXpT\njZEkNXKhyqNj8Riqs7e153WuspA7rpmjq1Bx/nTZe7J6bbFGD9rfzwAXBOukzr/O\njo4+2EFJiwCbW4WBeDowLa+IVhekGOFGWzgZIeJM/ppLepaeHkZAgb74UPBLvy5M\nGDGnQzMgbwHphy5voW/+VWM7Dfi3BxSTwqqTGQcH7NrFAerchPDSJiMR0NP0FqLu\nBxecfjcIyFOSoqXZyrogOIfdBfqriJj0SUHhfZXyKNDVsK6g6tmJIrLbdOdHIha8\n8FR5LmOVE1C4vnRHmICDiHhkSOOxIKhdvS4cFfen6QKBgQD+zC9noirLlHTkr8KE\njYj1KuSQ1XUovCpkMFGOvnUYybSMZVAqm17ipVu9bRb8op4906vFCBPIWZyo4rDo\n89Gbr/hJpGK19StFCX4SgOClj36h9FuOC0ZTtiDFlkMbLh1cTegEwaFcD+RA/uM9\n1z0+9xzswinv9CefGrLMUt9rBQKBgQC3ILNCvuPTrWFkhiEptoPv0KU7n1wp/i4r\nU0Hw+x6b0VSZ13t4iwLv542nML+LdKlmowquI1SG5yzMRmRxh/vDOyVTbfkf7nZ0\nkUw73tv9BmmoE8GzKAob2jyIgZTCu8xd0Z61hMCc5ZVDcbHT5WJIYAWyAlQRBefd\nvsCnmJoAaQKBgBgB5ymNlxiteUIe6WYR6+ilzPl0k2BuMlRUVSrs+R2Hy9I6rY4G\nK6+RQw6bG8JcFCrhKdsbwrlq8B7dlSut5X8U2oEd0wsv+Y68sTtPF1uiJJ1f58x/\ndXXnwDi9yr7h3nRXBtiD4g9JlAknuwOVpziqkfgg51CroZwVKOmlmVV9AoGBAJWI\nRBg6Wzpblu1IgQfYmv9VtbZruAwqG3URNQUbaLD/Sz+brpyNlkZjI03kBmRPTIwc\nkfoDq1/EoNXknNv/l9qhDyeC4yvpwhwJEODKZ4PCmr+98irihO6dU1R7ywb/5i6t\nnhTGY6k55pn92qEV6x0CG2Rxdke4NM7ildnER+wRAoGBAJXhoSR38WBml2D5A1QB\nSBf9sEx+pr53TNHu7NGG+5KVzN5YF/IvqIXPwy7+91bE22ly0L3W47+nuehcpImq\nUjfppIPPu74OeD5UpQdTydXc9MzCoj4LILgA9Qhv8u40IFy1o/qEIYCkzIas5E4G\nIXeHCTYVpeos2F5V2oAn1iuj\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-eu6z3@kalyan-matka-user.iam.gserviceaccount.com",
+  "client_id": "104986755292130074723",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-eu6z3%40kalyan-matka-user.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
